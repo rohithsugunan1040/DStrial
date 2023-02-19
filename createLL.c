@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #include<stdio.h>
 #include<stdlib.h>
 struct Node 
@@ -83,7 +83,7 @@ void main()
     }
     
 }
-=======
+
 #include<stdio.h>
 #include<stdlib.h>
 struct Node 
@@ -161,4 +161,3 @@ void main()
     }
     
 }
->>>>>>> 2c80df6cb89c8f566c29cbd1430b3f03d3ce47c5
